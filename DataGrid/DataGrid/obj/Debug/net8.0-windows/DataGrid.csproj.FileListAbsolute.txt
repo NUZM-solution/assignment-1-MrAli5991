@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\DataGrid\DataGrid\bin\Debug\net8.0-windows\DataGrid.exe
+C:\Users\Dell\source\repos\DataGrid\DataGrid\bin\Debug\net8.0-windows\DataGrid.deps.json
+C:\Users\Dell\source\repos\DataGrid\DataGrid\bin\Debug\net8.0-windows\DataGrid.runtimeconfig.json
+C:\Users\Dell\source\repos\DataGrid\DataGrid\bin\Debug\net8.0-windows\DataGrid.dll
+C:\Users\Dell\source\repos\DataGrid\DataGrid\bin\Debug\net8.0-windows\DataGrid.pdb
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.Form1.resources
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.AssemblyInfo.cs
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.dll
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\refint\DataGrid.dll
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.pdb
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.genruntimeconfig.cache
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\ref\DataGrid.dll
+C:\Users\Dell\source\repos\DataGrid\DataGrid\obj\Debug\net8.0-windows\DataGrid.Properties.Resources.resources

@@ -1,0 +1,17 @@
+C:\Users\Dell\source\repos\Login_form\Login_form\bin\Debug\net8.0-windows\Login_form.exe
+C:\Users\Dell\source\repos\Login_form\Login_form\bin\Debug\net8.0-windows\Login_form.deps.json
+C:\Users\Dell\source\repos\Login_form\Login_form\bin\Debug\net8.0-windows\Login_form.runtimeconfig.json
+C:\Users\Dell\source\repos\Login_form\Login_form\bin\Debug\net8.0-windows\Login_form.dll
+C:\Users\Dell\source\repos\Login_form\Login_form\bin\Debug\net8.0-windows\Login_form.pdb
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.Form1.resources
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.dll
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\refint\Login_form.dll
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.pdb
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\ref\Login_form.dll
+C:\Users\Dell\source\repos\Login_form\Login_form\obj\Debug\net8.0-windows\Login_form.Properties.Resources.resources
